@@ -1,0 +1,20 @@
+{
+  "name": "csp-hash-generator",
+  "version": "0.0.1",
+  "description": "Generate Content Security Policy hash for inline styles and scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-a-calles-mba/csp-hash-generator.git"
+  },
+  "keywords": ["security", "csp", "hash", "headers", "content security policy", "header", "sha256"],
+  "author": "Miguel A. Calles MBA <miguelacallesmba@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguel-a-calles-mba/csp-hash-generator/issues"
+  },
+  "homepage": "https://github.com/miguel-a-calles-mba/csp-hash-generator#readme"
+}
