@@ -10,7 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/miguel-a-calles-mba/csp-hash-generator.git"
   },
-  "keywords": ["security", "csp", "hash", "headers", "content security policy", "header", "sha256"],
+  "keywords": [
+    "security",
+    "csp",
+    "hash",
+    "headers",
+    "content security policy",
+    "header",
+    "sha256"
+  ],
   "author": "Miguel A. Calles MBA <miguelacallesmba@gmail.com>",
   "license": "MIT",
   "bugs": {
