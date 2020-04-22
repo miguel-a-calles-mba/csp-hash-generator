@@ -1,5 +1,7 @@
 'use strict';
 
+const crypto = require('crypto');
+
 module.exports = (inlineScriptOrStyle, options = { algorithm: 'sha256' }) => {
     const { algorithm } = options;
     const encodedHash = crypto
