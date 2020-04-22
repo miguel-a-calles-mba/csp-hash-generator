@@ -5,5 +5,6 @@ Generate Content Security Policy hash for inline styles and scripts.
 
 ```js
 const cspHashGen = require('csp-hash-generator');
-const cspHash = cspHashGen('div{color:red}');
+const cspHashInlineCss = cspHashGen('div{color:red}');
+const cspHashInlineJs = cspHashGen('console.log("test")');
 ```
